@@ -1,4 +1,4 @@
-# Python MySQL CRUD Application
+# Python/MySQL CRUD 
 
 Este é um pequeno projeto em Python que demonstra operações CRUD (Create, Read, Update, Delete) em um banco de dados MySQL. 
 O projeto inclui uma classe `BancoDeDados` que encapsula a lógica de interação com o banco de dados e exemplos de como realizar operações de cadastro, listagem, atualização e exclusão.
